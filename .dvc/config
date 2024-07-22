@@ -1,0 +1,4 @@
+[core]
+    remote = dvcremote
+['remote "dvcremote"']
+    url = /Users/dhanunjayaraga/Documents/dvc-data
